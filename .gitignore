@@ -1,0 +1,12 @@
+node_modules/
+*.tgz
+.env
+.env.*
+.pi/
+credentials.json
+binding.json
+cursor.json
+context_tokens.json
+received_ids.json
+attachments/
+*.log
